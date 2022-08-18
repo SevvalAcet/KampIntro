@@ -1,0 +1,15 @@
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.exe
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.deps.json
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.runtimeconfig.json
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.dll
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.pdb
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.AssemblyInfo.cs
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.dll
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\refint\GenericsIntro.dll
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.pdb
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.genruntimeconfig.cache
+C:\Users\sevva\source\repos\KampIntro\GenericsIntro\obj\Debug\net6.0\ref\GenericsIntro.dll
